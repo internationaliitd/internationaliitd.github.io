@@ -1,102 +1,1768 @@
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47036 [200]: /
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47040 [200]: /css/owl.carousel.min.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47060 [200]: /css/animate.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47044 [200]: /css/style.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47048 [200]: /css/easy-responsive-tabs.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47052 [200]: /css/themify-icons.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47056 [200]: /css/superfish.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47064 [200]: /css/bootstrap.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47068 [200]: /css/magnific-popup.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47072 [200]: /css/owl.theme.default.min.css
-[Mon Sep 18 16:39:11 2017] 127.0.0.1:47076 [200]: /js/modernizr-2.6.2.min.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47080 [200]: /js/jquery-1.10.2.min.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47084 [200]: /js/jquery.easing.1.3.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47088 [200]: /js/bootstrap.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47092 [200]: /js/owl.carousel.min.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47096 [200]: /js/jquery.magnific-popup.min.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47100 [200]: /js/hoverIntent.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47104 [200]: /js/superfish.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47108 [200]: /js/easyResponsiveTabs.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47112 [200]: /js/jquery.waypoints.min.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47116 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47120 [200]: /js/fastclick.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47124 [200]: /images/logo.png
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47128 [200]: /js/main.js
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47132 [200]: /fonts/themify/themify.woff?-fvbane
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47136 [200]: /images/IIT-Delhi.jpg
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47140 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47144 [200]: /images/img_large_1.jpg
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47148 [200]: /images/img_large_2.jpg
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47152 [200]: /images/img_large_3.jpg
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47156 [200]: /images/brics.jpg
-[Mon Sep 18 16:39:12 2017] 127.0.0.1:47160 [200]: /images/qslogo.png
-[Mon Sep 18 16:39:13 2017] 127.0.0.1:47164 [200]: /images/nirflogo.jpg
-[Mon Sep 18 16:39:13 2017] 127.0.0.1:47168 [200]: /images/asianlogo.png
-[Mon Sep 18 16:39:13 2017] 127.0.0.1:47172 [200]: /images/wein50.png
-[Mon Sep 18 16:39:13 2017] 127.0.0.1:47176 [200]: /images/wein51100.png
-[Mon Sep 18 16:39:13 2017] 127.0.0.1:47180 [200]: /images/img_large_6.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47186 [200]: /
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47190 [200]: /css/themify-icons.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47194 [200]: /css/bootstrap.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47198 [200]: /css/owl.carousel.min.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47202 [200]: /css/owl.theme.default.min.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47206 [200]: /css/magnific-popup.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47210 [200]: /css/superfish.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47214 [200]: /css/easy-responsive-tabs.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47218 [200]: /css/animate.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47222 [200]: /css/style.css
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47226 [200]: /js/modernizr-2.6.2.min.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47230 [200]: /js/jquery-1.10.2.min.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47234 [200]: /js/jquery.easing.1.3.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47238 [200]: /js/bootstrap.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47242 [200]: /js/owl.carousel.min.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47246 [200]: /js/jquery.magnific-popup.min.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47250 [200]: /js/hoverIntent.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47254 [200]: /js/superfish.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47258 [200]: /js/easyResponsiveTabs.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47262 [200]: /js/fastclick.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47266 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47270 [200]: /js/jquery.waypoints.min.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47274 [200]: /js/main.js
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47278 [200]: /images/logo.png
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47282 [200]: /images/img_large_1.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47286 [200]: /images/img_large_2.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47290 [200]: /images/img_large_3.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47294 [200]: /images/qslogo.png
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47298 [200]: /images/brics.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47302 [200]: /images/nirflogo.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47306 [200]: /images/asianlogo.png
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47310 [200]: /fonts/themify/themify.woff?-fvbane
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47314 [200]: /images/wein50.png
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47318 [200]: /images/wein51100.png
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47322 [200]: /images/IIT-Delhi.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47326 [200]: /images/img_large_6.jpg
-[Mon Sep 18 16:39:38 2017] 127.0.0.1:47330 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
-[Mon Sep 18 16:42:20 2017] 127.0.0.1:47336 [200]: /left-sidebar.html
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47342 [200]: /css/themify-icons.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47346 [200]: /css/bootstrap.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47350 [200]: /css/owl.carousel.min.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47354 [200]: /css/owl.theme.default.min.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47358 [200]: /css/magnific-popup.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47362 [200]: /css/superfish.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47366 [200]: /css/easy-responsive-tabs.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47370 [200]: /css/animate.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47374 [200]: /css/style.css
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47378 [200]: /js/modernizr-2.6.2.min.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47382 [200]: /js/jquery-1.10.2.min.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47386 [200]: /js/jquery.easing.1.3.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47390 [200]: /js/bootstrap.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47394 [200]: /js/owl.carousel.min.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47398 [200]: /js/jquery.magnific-popup.min.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47402 [200]: /js/hoverIntent.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47406 [200]: /js/superfish.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47410 [200]: /js/easyResponsiveTabs.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47414 [200]: /js/fastclick.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47418 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47422 [200]: /js/jquery.waypoints.min.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47426 [200]: /js/main.js
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47430 [200]: /images/logo.png
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47434 [200]: /images/img_large_1.jpg
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47438 [200]: /fonts/themify/themify.woff?-fvbane
-[Mon Sep 18 16:42:21 2017] 127.0.0.1:47442 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
-[Mon Sep 18 16:43:30 2017] 127.0.0.1:47448 [200]: /about.html
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40292 [200]: /
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40296 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40300 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40304 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40308 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40312 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40316 [200]: /css/superfish.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40320 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40324 [200]: /css/animate.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40328 [200]: /css/style.css
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40332 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40336 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40340 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40344 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40348 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40352 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40356 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40360 [200]: /js/superfish.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40364 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40368 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40372 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40376 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40380 [200]: /js/main.js
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40384 [200]: /images/logo.png
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40388 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40392 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40396 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40400 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40404 [200]: /images/qslogo.png
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40408 [200]: /images/brics.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40412 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40416 [200]: /images/asianlogo.png
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40420 [200]: /images/wein50.png
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40424 [200]: /images/wein51100.png
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40428 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40432 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40436 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:15 2018] 127.0.0.1:40440 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40444 [200]: /incoming-exchange.html
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40448 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40452 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40456 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40460 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40464 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40468 [200]: /css/superfish.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40472 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40476 [200]: /css/animate.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40480 [200]: /css/style.css
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40484 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40488 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40492 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40496 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40500 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40504 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40508 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40512 [200]: /js/superfish.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40516 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40520 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40524 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40528 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40532 [200]: /js/main.js
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40536 [200]: /images/logo.png
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40540 [200]: /images/Romain%20Gendreau.jpg
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40544 [200]: /images/Seongho%20Hong.jpg
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40548 [200]: /images/Yanik%20Koch.jpg
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40552 [200]: /images/Adrien%20Topalian.jpg
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40556 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40560 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:26 2018] 127.0.0.1:40564 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40568 [200]: /index.html
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40572 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40576 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40580 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40584 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40588 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40592 [200]: /css/superfish.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40596 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40600 [200]: /css/animate.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40604 [200]: /css/style.css
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40608 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40612 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40616 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40620 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40624 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40628 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40632 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40636 [200]: /js/superfish.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40640 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40644 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40648 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40652 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40656 [200]: /js/main.js
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40660 [200]: /images/logo.png
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40664 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40668 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40672 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40676 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40680 [200]: /images/qslogo.png
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40684 [200]: /images/brics.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40688 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40692 [200]: /images/asianlogo.png
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40696 [200]: /images/wein50.png
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40700 [200]: /images/wein51100.png
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40704 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40708 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:36 2018] 127.0.0.1:40712 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40716 [200]: /incoming-exchange.html
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40720 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40724 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40728 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40732 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40736 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40740 [200]: /css/superfish.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40744 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40748 [200]: /css/animate.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40752 [200]: /css/style.css
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40756 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40760 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40764 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40768 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40772 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40776 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40780 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40784 [200]: /js/superfish.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40788 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40792 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40796 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40800 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40804 [200]: /js/main.js
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40808 [200]: /images/logo.png
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40812 [200]: /images/Romain%20Gendreau.jpg
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40816 [200]: /images/Seongho%20Hong.jpg
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40820 [200]: /images/Yanik%20Koch.jpg
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40824 [200]: /images/Adrien%20Topalian.jpg
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40828 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40832 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:39 2018] 127.0.0.1:40836 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40860 [200]: /incoming-exchange.html
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40864 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40868 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40872 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40876 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40880 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40884 [200]: /css/superfish.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40888 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40892 [200]: /css/animate.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40896 [200]: /css/style.css
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40900 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40904 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40908 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40912 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40916 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40920 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40924 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40928 [200]: /js/superfish.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40932 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40936 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40940 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40944 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40948 [200]: /js/main.js
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40952 [200]: /images/logo.png
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40956 [200]: /images/Romain%20Gendreau.jpg
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40960 [200]: /images/Seongho%20Hong.jpg
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40964 [200]: /images/Yanik%20Koch.jpg
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40968 [200]: /images/Adrien%20Topalian.jpg
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40972 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40976 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:53 2018] 127.0.0.1:40980 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:40984 [200]: /index.html
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:40988 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:40992 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:40996 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41000 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41004 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41008 [200]: /css/superfish.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41012 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41016 [200]: /css/animate.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41020 [200]: /css/style.css
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41024 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41028 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41032 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41036 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41040 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41044 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41048 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41052 [200]: /js/superfish.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41056 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41060 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41064 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41068 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41072 [200]: /js/main.js
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41076 [200]: /images/logo.png
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41080 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41084 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41088 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41092 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41096 [200]: /images/qslogo.png
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41100 [200]: /images/brics.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41104 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41108 [200]: /images/asianlogo.png
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41112 [200]: /images/wein50.png
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41116 [200]: /images/wein51100.png
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41120 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41124 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:55 2018] 127.0.0.1:41128 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:58 2018] 127.0.0.1:41132 [200]: /index.html
+[Fri Feb  9 07:51:58 2018] 127.0.0.1:41136 [200]: /css/themify-icons.css
+[Fri Feb  9 07:51:58 2018] 127.0.0.1:41140 [200]: /css/bootstrap.css
+[Fri Feb  9 07:51:58 2018] 127.0.0.1:41144 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41148 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41152 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41156 [200]: /css/superfish.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41160 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41164 [200]: /css/animate.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41168 [200]: /css/style.css
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41172 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41176 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41180 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41184 [200]: /js/bootstrap.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41188 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41192 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41196 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41200 [200]: /js/superfish.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41204 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41208 [200]: /js/fastclick.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41212 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41216 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41220 [200]: /js/main.js
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41224 [200]: /images/logo.png
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41228 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41232 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41236 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41240 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41244 [200]: /images/qslogo.png
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41248 [200]: /images/brics.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41252 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41256 [200]: /images/asianlogo.png
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41260 [200]: /images/wein50.png
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41264 [200]: /images/wein51100.png
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41268 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41272 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:51:59 2018] 127.0.0.1:41276 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:52:31 2018] 127.0.0.1:41280 [200]: /index.html
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41284 [200]: /css/themify-icons.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41288 [200]: /css/bootstrap.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41292 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41296 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41300 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41304 [200]: /css/superfish.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41308 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41312 [200]: /css/animate.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41316 [200]: /css/style.css
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41320 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41324 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41328 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41332 [200]: /js/bootstrap.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41336 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41340 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41344 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41348 [200]: /js/superfish.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41352 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41356 [200]: /js/fastclick.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41360 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41364 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41368 [200]: /js/main.js
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41372 [200]: /images/logo.png
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41376 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41380 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41384 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41388 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41392 [200]: /images/qslogo.png
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41396 [200]: /images/brics.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41400 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41404 [200]: /images/asianlogo.png
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41408 [200]: /images/wein50.png
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41412 [200]: /images/wein51100.png
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41416 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41420 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41424 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:52:32 2018] 127.0.0.1:41428 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41432 [200]: /index.html
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41436 [200]: /css/themify-icons.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41440 [200]: /css/bootstrap.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41444 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41448 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41452 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41456 [200]: /css/superfish.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41460 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41464 [200]: /css/animate.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41468 [200]: /css/style.css
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41472 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41476 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41480 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41484 [200]: /js/bootstrap.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41488 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41492 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41496 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41500 [200]: /js/superfish.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41504 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41508 [200]: /js/fastclick.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41512 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41516 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41520 [200]: /js/main.js
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41524 [200]: /images/logo.png
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41528 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41532 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41536 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41540 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41544 [200]: /images/qslogo.png
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41548 [200]: /images/brics.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41552 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41556 [200]: /images/asianlogo.png
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41560 [200]: /images/wein50.png
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41564 [200]: /images/wein51100.png
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41568 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:54:51 2018] 127.0.0.1:41572 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:54:52 2018] 127.0.0.1:41576 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:54:52 2018] 127.0.0.1:41580 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41588 [200]: /index.html
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41592 [200]: /css/themify-icons.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41596 [200]: /css/bootstrap.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41600 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41604 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41608 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41612 [200]: /css/superfish.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41616 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41620 [200]: /css/animate.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41624 [200]: /css/style.css
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41628 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41632 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41636 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41640 [200]: /js/bootstrap.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41644 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41648 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41652 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41656 [200]: /js/superfish.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41660 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41664 [200]: /js/fastclick.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41668 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41672 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41676 [200]: /js/main.js
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41680 [200]: /images/logo.png
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41684 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41688 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41692 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41696 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41700 [200]: /images/qslogo.png
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41704 [200]: /images/brics.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41708 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41712 [200]: /images/asianlogo.png
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41716 [200]: /images/wein50.png
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41720 [200]: /images/wein51100.png
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41724 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41728 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41732 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:56:22 2018] 127.0.0.1:41736 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41748 [200]: /css/themify-icons.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41752 [200]: /css/bootstrap.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41756 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41760 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41764 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41768 [200]: /css/superfish.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41772 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41776 [200]: /css/animate.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41780 [200]: /css/style.css
+[Fri Feb  9 07:56:43 2018] 127.0.0.1:41784 [404]: /css/bootstrap.css.map - No such file or directory
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41926 [200]: /incoming-exchange.html
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41930 [200]: /css/themify-icons.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41934 [200]: /css/bootstrap.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41938 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41942 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41946 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41950 [200]: /css/superfish.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41954 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41958 [200]: /css/animate.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41962 [200]: /css/style.css
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41966 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41970 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41974 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41978 [200]: /js/bootstrap.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41982 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41986 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41990 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41994 [200]: /js/superfish.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:41998 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42002 [200]: /js/fastclick.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42006 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42010 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42014 [200]: /js/main.js
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42018 [200]: /images/logo.png
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42022 [200]: /images/Romain%20Gendreau.jpg
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42026 [200]: /images/Seongho%20Hong.jpg
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42030 [200]: /images/Yanik%20Koch.jpg
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42034 [200]: /images/Adrien%20Topalian.jpg
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42038 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42042 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:58:48 2018] 127.0.0.1:42046 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42050 [200]: /index.html
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42054 [200]: /css/themify-icons.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42058 [200]: /css/bootstrap.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42062 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42066 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42070 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42074 [200]: /css/superfish.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42078 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42082 [200]: /css/animate.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42086 [200]: /css/style.css
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42090 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42094 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42098 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42102 [200]: /js/bootstrap.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42106 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42110 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42114 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42118 [200]: /js/superfish.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42122 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42126 [200]: /js/fastclick.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42130 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42134 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42138 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42142 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42146 [200]: /images/logo.png
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42150 [200]: /js/main.js
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42154 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42158 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42162 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42166 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42170 [200]: /images/qslogo.png
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42174 [200]: /images/brics.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42178 [200]: /images/nirflogo.jpg
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42182 [200]: /images/asianlogo.png
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42186 [200]: /images/wein50.png
+[Fri Feb  9 07:58:50 2018] 127.0.0.1:42190 [200]: /images/wein51100.png
+[Fri Feb  9 07:58:51 2018] 127.0.0.1:42194 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42198 [200]: /incoming-exchange.html
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42202 [200]: /css/themify-icons.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42206 [200]: /css/bootstrap.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42210 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42214 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42218 [200]: /css/magnific-popup.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42222 [200]: /css/superfish.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42226 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42230 [200]: /css/animate.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42234 [200]: /css/style.css
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42238 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42242 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42246 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42250 [200]: /js/bootstrap.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42254 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42258 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42262 [200]: /js/hoverIntent.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42266 [200]: /js/superfish.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42270 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42274 [200]: /js/fastclick.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42278 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42282 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42286 [200]: /js/main.js
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42290 [200]: /images/logo.png
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42294 [200]: /images/Romain%20Gendreau.jpg
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42298 [200]: /images/Seongho%20Hong.jpg
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42302 [200]: /images/Yanik%20Koch.jpg
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42306 [200]: /images/Adrien%20Topalian.jpg
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42310 [200]: /images/iitd_building.jpg
+[Fri Feb  9 07:59:38 2018] 127.0.0.1:42314 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 07:59:39 2018] 127.0.0.1:42318 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:00:37 2018] 127.0.0.1:42322 [404]: /incoming-exchange.html - No such file or directory
+[Fri Feb  9 08:00:37 2018] 127.0.0.1:42326 [404]: /favicon.ico - No such file or directory
+[Fri Feb  9 08:00:40 2018] 127.0.0.1:42330 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42362 [200]: /index.html
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42366 [200]: /css/themify-icons.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42370 [200]: /css/bootstrap.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42374 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42378 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42382 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42386 [200]: /css/superfish.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42390 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42394 [200]: /css/animate.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42398 [200]: /css/style.css
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42402 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42406 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42410 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42414 [200]: /js/bootstrap.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42418 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42422 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42426 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42430 [200]: /js/superfish.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42434 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42438 [200]: /js/fastclick.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42442 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42446 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42450 [200]: /js/main.js
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42454 [200]: /images/logo.png
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42458 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42462 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42466 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42470 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42474 [200]: /images/qslogo.png
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42478 [200]: /images/brics.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42482 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42486 [200]: /images/asianlogo.png
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42490 [200]: /images/wein50.png
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42494 [200]: /images/wein51100.png
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42498 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42502 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42506 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:00:52 2018] 127.0.0.1:42510 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42514 [200]: /exchange/incoming-exchange.html
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42518 [404]: /exchange/css/themify-icons.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42522 [404]: /exchange/css/bootstrap.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42526 [404]: /exchange/css/owl.carousel.min.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42530 [404]: /exchange/css/owl.theme.default.min.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42534 [404]: /exchange/css/magnific-popup.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42538 [404]: /exchange/css/superfish.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42542 [404]: /exchange/css/easy-responsive-tabs.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42546 [404]: /exchange/css/animate.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42550 [404]: /exchange/css/style.css - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42554 [404]: /exchange/js/modernizr-2.6.2.min.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42558 [404]: /exchange/js/jquery-1.10.2.min.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42562 [404]: /exchange/js/jquery.easing.1.3.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42566 [404]: /exchange/js/bootstrap.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42570 [404]: /exchange/js/owl.carousel.min.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42574 [404]: /exchange/js/jquery.magnific-popup.min.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42578 [404]: /exchange/js/hoverIntent.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42582 [404]: /exchange/js/superfish.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42586 [404]: /exchange/js/easyResponsiveTabs.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42590 [404]: /exchange/js/fastclick.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42594 [404]: /exchange/js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42598 [404]: /exchange/js/jquery.waypoints.min.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42602 [404]: /exchange/js/main.js - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42606 [404]: /exchange/images/logo.png - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42610 [404]: /exchange/images/Romain%20Gendreau.jpg - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42614 [404]: /exchange/images/Seongho%20Hong.jpg - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42618 [404]: /exchange/images/Yanik%20Koch.jpg - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42622 [404]: /exchange/images/Adrien%20Topalian.jpg - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42626 [404]: /exchange/images/iitd_building.jpg - No such file or directory
+[Fri Feb  9 08:00:57 2018] 127.0.0.1:42630 [404]: /exchange/images/IIT_Delhi_logo.png - No such file or directory
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42652 [200]: /index.html
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42656 [200]: /css/themify-icons.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42660 [200]: /css/bootstrap.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42664 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42672 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42668 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42676 [200]: /css/superfish.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42680 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42684 [200]: /css/animate.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42688 [200]: /css/style.css
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42692 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42696 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42700 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42704 [200]: /js/bootstrap.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42708 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42712 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42716 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42720 [200]: /js/superfish.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42724 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42728 [200]: /js/fastclick.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42732 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42736 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42740 [200]: /js/main.js
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42744 [200]: /images/logo.png
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42748 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42752 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42756 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42760 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42764 [200]: /images/qslogo.png
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42768 [200]: /images/brics.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42772 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42776 [200]: /images/asianlogo.png
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42780 [200]: /images/wein50.png
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42784 [200]: /images/wein51100.png
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42788 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42792 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42796 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:01:54 2018] 127.0.0.1:42800 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42804 [200]: /exchange/faq.html
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42808 [404]: /exchange/css/themify-icons.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42812 [404]: /exchange/css/bootstrap.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42816 [404]: /exchange/css/owl.carousel.min.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42820 [404]: /exchange/css/owl.theme.default.min.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42824 [404]: /exchange/css/magnific-popup.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42828 [404]: /exchange/css/superfish.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42832 [404]: /exchange/css/easy-responsive-tabs.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42836 [404]: /exchange/css/animate.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42840 [404]: /exchange/css/style.css - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42844 [404]: /exchange/js/modernizr-2.6.2.min.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42848 [404]: /exchange/js/jquery-1.10.2.min.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42852 [404]: /exchange/js/jquery.easing.1.3.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42856 [404]: /exchange/js/bootstrap.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42860 [404]: /exchange/js/owl.carousel.min.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42864 [404]: /exchange/js/jquery.magnific-popup.min.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42868 [404]: /exchange/js/hoverIntent.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42872 [404]: /exchange/js/superfish.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42876 [404]: /exchange/js/easyResponsiveTabs.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42880 [404]: /exchange/js/fastclick.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42884 [404]: /exchange/js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42888 [404]: /exchange/js/jquery.waypoints.min.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42892 [404]: /exchange/js/main.js - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42896 [404]: /exchange/images/logo.png - No such file or directory
+[Fri Feb  9 08:01:58 2018] 127.0.0.1:42900 [404]: /exchange/images/faq.JPG - No such file or directory
+[Fri Feb  9 08:02:16 2018] 127.0.0.1:42910 [404]: /incoming-exchange.html - No such file or directory
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42918 [200]: /index.html
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42922 [200]: /css/themify-icons.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42926 [200]: /css/bootstrap.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42930 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42934 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42938 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42942 [200]: /css/superfish.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42946 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42950 [200]: /css/animate.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42954 [200]: /css/style.css
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42958 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42962 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42966 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42970 [200]: /js/bootstrap.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42974 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42978 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42982 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42986 [200]: /js/superfish.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42990 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42994 [200]: /js/fastclick.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:42998 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43002 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43006 [200]: /js/main.js
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43010 [200]: /images/logo.png
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43014 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43018 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43022 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43026 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43030 [200]: /images/qslogo.png
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43034 [200]: /images/brics.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43038 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43042 [200]: /images/asianlogo.png
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43046 [200]: /images/wein50.png
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43050 [200]: /images/wein51100.png
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43054 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43058 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:02:45 2018] 127.0.0.1:43062 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:02:46 2018] 127.0.0.1:43066 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:02:47 2018] 127.0.0.1:43070 [404]: /contact - No such file or directory
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43074 [200]: /index.html
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43078 [200]: /css/themify-icons.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43082 [200]: /css/bootstrap.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43086 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43090 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43094 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43098 [200]: /css/superfish.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43102 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43106 [200]: /css/animate.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43110 [200]: /css/style.css
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43114 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43118 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43122 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43126 [200]: /js/bootstrap.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43130 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43134 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43138 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43142 [200]: /js/superfish.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43146 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43150 [200]: /js/fastclick.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43154 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43158 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43162 [200]: /js/main.js
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43166 [200]: /images/logo.png
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43170 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43174 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43178 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43182 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43186 [200]: /images/qslogo.png
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43190 [200]: /images/brics.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43194 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43198 [200]: /images/asianlogo.png
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43202 [200]: /images/wein50.png
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43206 [200]: /images/wein51100.png
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43210 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43214 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43218 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:02:57 2018] 127.0.0.1:43222 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43226 [200]: /contact
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43230 [200]: /css/style1.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43234 [200]: /css/themify-icons.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43238 [200]: /css/bootstrap.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43242 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43246 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43250 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43254 [200]: /css/superfish.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43258 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43262 [200]: /css/animate.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43266 [200]: /css/style.css
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43270 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43274 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43278 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43282 [200]: /js/bootstrap.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43286 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43290 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43294 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43298 [200]: /js/superfish.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43302 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43306 [200]: /js/fastclick.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43310 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43314 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43318 [200]: /js/main.js
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43322 [200]: /images/logo.png
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43326 [200]: /images/image3.jpg
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43330 [200]: /images/ssanghi.png
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43334 [200]: /images/aaaa.jpg
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43338 [200]: /images/aaa.JPG
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43342 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:02:59 2018] 127.0.0.1:43346 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:16 2018] 127.0.0.1:43354 [200]: /index.html
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43358 [200]: /css/themify-icons.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43362 [200]: /css/bootstrap.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43366 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43370 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43374 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43378 [200]: /css/superfish.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43382 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43386 [200]: /css/animate.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43390 [200]: /css/style.css
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43394 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43398 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43402 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43406 [200]: /js/bootstrap.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43410 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43414 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43418 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43422 [200]: /js/superfish.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43426 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43430 [200]: /js/fastclick.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43434 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43438 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43442 [200]: /js/main.js
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43446 [200]: /images/logo.png
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43450 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43454 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43458 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43462 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43466 [200]: /images/qslogo.png
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43470 [200]: /images/brics.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43474 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43478 [200]: /images/asianlogo.png
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43482 [200]: /images/wein50.png
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43486 [200]: /images/wein51100.png
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43490 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43494 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:03:17 2018] 127.0.0.1:43498 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43502 [200]: /index.html
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43506 [200]: /css/themify-icons.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43510 [200]: /css/bootstrap.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43514 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43518 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43522 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43526 [200]: /css/superfish.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43530 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43534 [200]: /css/animate.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43538 [200]: /css/style.css
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43542 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43546 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43550 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43554 [200]: /js/bootstrap.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43558 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43562 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43566 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43570 [200]: /js/superfish.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43574 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43578 [200]: /js/fastclick.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43582 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43586 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43590 [200]: /js/main.js
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43594 [200]: /images/logo.png
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43598 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43602 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43606 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43610 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43614 [200]: /images/qslogo.png
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43618 [200]: /images/brics.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43622 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43626 [200]: /images/asianlogo.png
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43630 [200]: /images/wein50.png
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43634 [200]: /images/wein51100.png
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43638 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43642 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43646 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:25 2018] 127.0.0.1:43650 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:03:26 2018] 127.0.0.1:43654 [200]: /
+[Fri Feb  9 08:03:26 2018] 127.0.0.1:43658 [200]: /css/themify-icons.css
+[Fri Feb  9 08:03:26 2018] 127.0.0.1:43662 [200]: /css/bootstrap.css
+[Fri Feb  9 08:03:26 2018] 127.0.0.1:43666 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43670 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43674 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43678 [200]: /css/superfish.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43682 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43686 [200]: /css/animate.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43690 [200]: /css/style.css
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43694 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43698 [200]: /images/logo.png
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43702 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43706 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43710 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43714 [200]: /js/bootstrap.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43718 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43722 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43726 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43730 [200]: /js/superfish.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43734 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43738 [200]: /js/fastclick.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43742 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43746 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43750 [200]: /js/main.js
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43754 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43758 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43762 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43766 [200]: /images/qslogo.png
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43770 [200]: /images/brics.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43774 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43778 [200]: /images/asianlogo.png
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43782 [200]: /images/wein50.png
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43786 [200]: /images/wein51100.png
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43790 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43794 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:03:27 2018] 127.0.0.1:43798 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43802 [200]: /
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43806 [200]: /css/themify-icons.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43810 [200]: /css/bootstrap.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43814 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43818 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43822 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43826 [200]: /css/superfish.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43830 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43834 [200]: /css/animate.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43838 [200]: /css/style.css
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43842 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43846 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43850 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43854 [200]: /js/bootstrap.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43858 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43862 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43866 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43870 [200]: /js/superfish.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43874 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43878 [200]: /js/fastclick.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43882 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43886 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43890 [200]: /js/main.js
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43894 [200]: /images/logo.png
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43898 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43902 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43906 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43910 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43914 [200]: /images/qslogo.png
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43918 [200]: /images/brics.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43922 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43926 [200]: /images/asianlogo.png
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43930 [200]: /images/wein50.png
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43934 [200]: /images/wein51100.png
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43938 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43942 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:03:56 2018] 127.0.0.1:43946 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:04:01 2018] 127.0.0.1:43950 [404]: /exchange/incoming-exchange.html - No such file or directory
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43954 [200]: /
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43958 [200]: /css/themify-icons.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43962 [200]: /css/bootstrap.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43966 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43970 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43974 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43978 [200]: /css/superfish.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43982 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43986 [200]: /css/animate.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43990 [200]: /css/style.css
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43994 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:43998 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44002 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44006 [200]: /js/bootstrap.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44010 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44014 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44018 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44022 [200]: /js/superfish.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44026 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44030 [200]: /js/fastclick.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44034 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44038 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44042 [200]: /js/main.js
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44046 [200]: /images/logo.png
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44050 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44054 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44058 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44062 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44066 [200]: /images/qslogo.png
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44070 [200]: /images/brics.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44074 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44078 [200]: /images/asianlogo.png
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44082 [200]: /images/wein50.png
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44086 [200]: /images/wein51100.png
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44090 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44094 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:04:12 2018] 127.0.0.1:44098 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:04:13 2018] 127.0.0.1:44102 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44106 [200]: /exchange/incoming.html
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44110 [404]: /exchange/css/themify-icons.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44114 [404]: /exchange/css/bootstrap.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44118 [404]: /exchange/css/owl.carousel.min.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44122 [404]: /exchange/css/owl.theme.default.min.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44126 [404]: /exchange/css/magnific-popup.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44130 [404]: /exchange/css/superfish.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44134 [404]: /exchange/css/easy-responsive-tabs.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44138 [404]: /exchange/css/animate.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44142 [404]: /exchange/css/style.css - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44146 [404]: /exchange/js/modernizr-2.6.2.min.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44150 [404]: /exchange/js/jquery-1.10.2.min.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44154 [404]: /exchange/js/jquery.easing.1.3.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44158 [404]: /exchange/js/bootstrap.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44162 [404]: /exchange/js/owl.carousel.min.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44166 [404]: /exchange/js/jquery.magnific-popup.min.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44170 [404]: /exchange/js/hoverIntent.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44174 [404]: /exchange/images/iitd_building.jpg - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44178 [404]: /exchange/images/logo.png - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44182 [404]: /exchange/js/superfish.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44186 [404]: /exchange/js/easyResponsiveTabs.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44190 [404]: /exchange/js/fastclick.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44194 [404]: /exchange/js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44198 [404]: /exchange/js/jquery.waypoints.min.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44202 [404]: /exchange/js/main.js - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44206 [404]: /exchange/images/Romain%20Gendreau.jpg - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44210 [404]: /exchange/images/Seongho%20Hong.jpg - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44214 [404]: /exchange/images/Yanik%20Koch.jpg - No such file or directory
+[Fri Feb  9 08:04:15 2018] 127.0.0.1:44218 [404]: /exchange/images/Adrien%20Topalian.jpg - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44222 [200]: /exchange/outgoing.html
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44226 [404]: /exchange/css/themify-icons.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44230 [404]: /exchange/css/bootstrap.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44234 [404]: /exchange/css/owl.carousel.min.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44238 [404]: /exchange/css/owl.theme.default.min.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44242 [404]: /exchange/css/magnific-popup.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44246 [404]: /exchange/css/superfish.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44250 [404]: /exchange/css/easy-responsive-tabs.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44254 [404]: /exchange/css/animate.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44258 [404]: /exchange/css/style.css - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44262 [404]: /exchange/js/modernizr-2.6.2.min.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44266 [404]: /exchange/js/jquery-1.10.2.min.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44270 [404]: /exchange/js/jquery.easing.1.3.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44274 [404]: /exchange/js/bootstrap.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44278 [404]: /exchange/js/owl.carousel.min.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44282 [404]: /exchange/js/jquery.magnific-popup.min.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44286 [404]: /exchange/js/hoverIntent.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44290 [404]: /exchange/images/iitd_building.jpg - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44294 [404]: /exchange/images/soham%20roy.jpg - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44298 [404]: /exchange/images/logo.png - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44302 [404]: /exchange/images/arushi%20jain.jpg - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44306 [404]: /exchange/js/superfish.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44310 [404]: /exchange/js/easyResponsiveTabs.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44314 [404]: /exchange/js/fastclick.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44318 [404]: /exchange/js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44322 [404]: /exchange/js/jquery.waypoints.min.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44326 [404]: /exchange/js/main.js - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44330 [404]: /exchange/images/swapnil%20sharma.jpg - No such file or directory
+[Fri Feb  9 08:04:19 2018] 127.0.0.1:44334 [404]: /exchange/images/ishan%20tewari.jpg - No such file or directory
+[Fri Feb  9 08:04:26 2018] 127.0.0.1:44338 [404]: /incoming-exchange.html - No such file or directory
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44350 [200]: /
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44354 [200]: /css/themify-icons.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44358 [200]: /css/bootstrap.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44362 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44366 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44370 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44374 [200]: /css/superfish.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44378 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44382 [200]: /css/animate.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44386 [200]: /css/style.css
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44390 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44394 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44398 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44402 [200]: /js/bootstrap.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44406 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44410 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44414 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44418 [200]: /js/superfish.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44422 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44426 [200]: /js/fastclick.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44430 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44434 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44438 [200]: /js/main.js
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44442 [200]: /images/logo.png
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44446 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44450 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44454 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44458 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44462 [200]: /images/qslogo.png
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44466 [200]: /images/brics.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44470 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44474 [200]: /images/asianlogo.png
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44478 [200]: /images/wein50.png
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44482 [200]: /images/wein51100.png
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44486 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44490 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44494 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:05:58 2018] 127.0.0.1:44498 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:06:01 2018] 127.0.0.1:44502 [200]: /admissions/undergraduate.html
+[Fri Feb  9 08:06:05 2018] 127.0.0.1:44506 [200]: /admissions/postgraduate.html
+[Fri Feb  9 08:06:10 2018] 127.0.0.1:44510 [200]: /admissions/visiting-studentship.html
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44530 [200]: /
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44534 [200]: /css/themify-icons.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44538 [200]: /css/bootstrap.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44542 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44546 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44550 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44554 [200]: /css/superfish.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44558 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44562 [200]: /css/animate.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44566 [200]: /css/style.css
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44570 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44574 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44578 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44582 [200]: /js/bootstrap.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44586 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44590 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44594 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44598 [200]: /js/superfish.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44602 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44606 [200]: /js/fastclick.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44610 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44614 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44618 [200]: /js/main.js
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44622 [200]: /images/logo.png
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44626 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44630 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44634 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44638 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44642 [200]: /images/qslogo.png
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44646 [200]: /images/brics.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44650 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44654 [200]: /images/asianlogo.png
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44658 [200]: /images/wein50.png
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44662 [200]: /images/wein51100.png
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44666 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44670 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44674 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:09 2018] 127.0.0.1:44678 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44682 [200]: /
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44686 [200]: /css/themify-icons.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44690 [200]: /css/bootstrap.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44694 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44698 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44702 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44706 [200]: /css/superfish.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44710 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44714 [200]: /css/animate.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44718 [200]: /css/style.css
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44722 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44726 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44730 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44734 [200]: /js/bootstrap.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44738 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44742 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44746 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44750 [200]: /js/superfish.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44754 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44758 [200]: /js/fastclick.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44762 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44766 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44770 [200]: /js/main.js
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44774 [200]: /images/logo.png
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44778 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44782 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44786 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44790 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44794 [200]: /images/qslogo.png
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44798 [200]: /images/brics.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44802 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44806 [200]: /images/asianlogo.png
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44810 [200]: /images/wein50.png
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44814 [200]: /images/wein51100.png
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44818 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44822 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44826 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:12 2018] 127.0.0.1:44830 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44834 [200]: /
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44838 [200]: /css/themify-icons.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44842 [200]: /css/bootstrap.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44846 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44850 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44854 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44858 [200]: /css/superfish.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44862 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44866 [200]: /css/animate.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44870 [200]: /css/style.css
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44874 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44878 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44882 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44886 [200]: /js/bootstrap.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44890 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44894 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44898 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44902 [200]: /js/superfish.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44906 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44910 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44914 [200]: /images/logo.png
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44918 [200]: /js/fastclick.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44922 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44926 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44930 [200]: /js/main.js
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44934 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44938 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44942 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44946 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44950 [200]: /images/qslogo.png
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44954 [200]: /images/brics.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44958 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44962 [200]: /images/asianlogo.png
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44966 [200]: /images/wein50.png
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44970 [200]: /images/wein51100.png
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44974 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44978 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:17 2018] 127.0.0.1:44982 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:44988 [200]: /
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:44992 [200]: /css/themify-icons.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:44996 [200]: /css/bootstrap.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45000 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45004 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45008 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45012 [200]: /css/superfish.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45016 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45020 [200]: /css/animate.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45024 [200]: /css/style.css
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45028 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45032 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45036 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45040 [200]: /js/bootstrap.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45044 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45048 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45052 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45056 [200]: /js/superfish.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45060 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45064 [200]: /js/fastclick.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45068 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45072 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45076 [200]: /js/main.js
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45080 [200]: /images/logo.png
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45084 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45088 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45092 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45096 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45100 [200]: /images/qslogo.png
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45104 [200]: /images/brics.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45108 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45112 [200]: /images/asianlogo.png
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45116 [200]: /images/wein50.png
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45120 [200]: /images/wein51100.png
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45124 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45128 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:08:25 2018] 127.0.0.1:45132 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:26 2018] 127.0.0.1:45136 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45140 [200]: /
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45144 [200]: /css/themify-icons.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45148 [200]: /css/bootstrap.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45152 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45156 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45160 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45164 [200]: /css/superfish.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45168 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45172 [200]: /css/animate.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45176 [200]: /css/style.css
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45180 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45184 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45188 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45192 [200]: /js/bootstrap.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45196 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45200 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45204 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45208 [200]: /js/superfish.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45212 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45216 [200]: /js/fastclick.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45220 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45224 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45228 [200]: /js/main.js
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45232 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45236 [200]: /images/logo.png
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45240 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45244 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45248 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45252 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45256 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45260 [200]: /images/qslogo.png
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45264 [200]: /images/brics.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45268 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45272 [200]: /images/asianlogo.png
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45276 [200]: /images/wein50.png
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45280 [200]: /images/wein51100.png
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45284 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:08:36 2018] 127.0.0.1:45288 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45336 [200]: /
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45340 [200]: /css/themify-icons.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45344 [200]: /css/bootstrap.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45348 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45352 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45356 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45360 [200]: /css/superfish.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45364 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45368 [200]: /css/animate.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45372 [200]: /css/style.css
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45376 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45380 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45384 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45388 [200]: /js/bootstrap.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45392 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45396 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45400 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45404 [200]: /js/superfish.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45408 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45412 [200]: /js/fastclick.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45416 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45420 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45424 [200]: /js/main.js
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45428 [200]: /images/logo.png
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45432 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45436 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45440 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45444 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45448 [200]: /images/qslogo.png
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45452 [200]: /images/brics.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45456 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45460 [200]: /images/asianlogo.png
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45464 [200]: /images/wein50.png
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45468 [200]: /images/wein51100.png
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45472 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45476 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45480 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:11:02 2018] 127.0.0.1:45484 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45530 [200]: /
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45534 [200]: /css/themify-icons.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45538 [200]: /css/bootstrap.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45542 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45546 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45550 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45554 [200]: /css/superfish.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45558 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45562 [200]: /css/animate.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45566 [200]: /css/style.css
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45570 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45574 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45578 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45582 [200]: /js/bootstrap.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45586 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45590 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45594 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45598 [200]: /js/superfish.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45602 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45606 [200]: /js/fastclick.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45610 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45614 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45618 [200]: /js/main.js
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45622 [200]: /images/logo.png
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45626 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45630 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45634 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45638 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45642 [200]: /images/qslogo.png
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45646 [200]: /images/brics.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45650 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45654 [200]: /images/asianlogo.png
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45658 [200]: /images/wein50.png
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45662 [200]: /images/wein51100.png
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45666 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45670 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45674 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:14:19 2018] 127.0.0.1:45678 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45682 [200]: /
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45686 [200]: /css/themify-icons.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45690 [200]: /css/bootstrap.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45694 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45698 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45702 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45706 [200]: /css/superfish.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45710 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45714 [200]: /css/animate.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45718 [200]: /css/style.css
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45722 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45726 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45730 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45734 [200]: /js/bootstrap.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45738 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45742 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45746 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45750 [200]: /js/superfish.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45754 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45758 [200]: /js/fastclick.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45762 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45766 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45770 [200]: /js/main.js
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45774 [200]: /images/logo.png
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45778 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45782 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45786 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45790 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45794 [200]: /images/qslogo.png
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45798 [200]: /images/brics.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45802 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45806 [200]: /images/asianlogo.png
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45810 [200]: /images/wein50.png
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45814 [200]: /images/wein51100.png
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45818 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45822 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45826 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:15:03 2018] 127.0.0.1:45830 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45834 [200]: /
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45838 [200]: /css/themify-icons.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45842 [200]: /css/bootstrap.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45846 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45850 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45854 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45858 [200]: /css/superfish.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45862 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45866 [200]: /css/animate.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45870 [200]: /css/style.css
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45874 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45878 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45882 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45886 [200]: /js/bootstrap.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45890 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45894 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45898 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45902 [200]: /js/superfish.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45906 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45910 [200]: /js/fastclick.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45914 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45918 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45922 [200]: /js/main.js
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45926 [200]: /images/logo.png
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45930 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45934 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45938 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45942 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45946 [200]: /images/qslogo.png
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45950 [200]: /images/brics.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45954 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45958 [200]: /images/asianlogo.png
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45962 [200]: /images/wein50.png
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45966 [200]: /images/wein51100.png
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45970 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45974 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:15:27 2018] 127.0.0.1:45978 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:15:28 2018] 127.0.0.1:45982 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:45986 [200]: /
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:45990 [200]: /css/themify-icons.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:45994 [200]: /css/bootstrap.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:45998 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46002 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46006 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46010 [200]: /css/superfish.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46014 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46018 [200]: /css/animate.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46022 [200]: /css/style.css
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46026 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46030 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46034 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46038 [200]: /js/bootstrap.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46042 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46046 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46050 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46054 [200]: /js/superfish.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46058 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46062 [200]: /js/fastclick.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46066 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46070 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46074 [200]: /js/main.js
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46078 [200]: /images/logo.png
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46082 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46086 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46090 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46094 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46098 [200]: /images/qslogo.png
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46102 [200]: /images/brics.jpg
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46106 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46110 [200]: /images/asianlogo.png
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46114 [200]: /images/wein50.png
+[Fri Feb  9 08:15:39 2018] 127.0.0.1:46118 [200]: /images/wein51100.png
+[Fri Feb  9 08:15:40 2018] 127.0.0.1:46122 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:15:40 2018] 127.0.0.1:46126 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:15:40 2018] 127.0.0.1:46130 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:15:40 2018] 127.0.0.1:46134 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46144 [200]: /
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46148 [200]: /css/themify-icons.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46152 [200]: /css/bootstrap.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46164 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46156 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46160 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46168 [200]: /css/superfish.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46172 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46176 [200]: /css/animate.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46180 [200]: /css/style.css
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46184 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46188 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46192 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46196 [200]: /js/bootstrap.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46200 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46204 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46208 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46212 [200]: /js/superfish.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46216 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46220 [200]: /js/fastclick.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46224 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46228 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46232 [200]: /js/main.js
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46236 [200]: /images/logo.png
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46240 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46244 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46248 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46252 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46256 [200]: /images/qslogo.png
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46260 [200]: /images/brics.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46264 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46268 [200]: /images/asianlogo.png
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46272 [200]: /images/wein50.png
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46276 [200]: /images/wein51100.png
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46280 [200]: /images/iitd_building.jpg
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46284 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46288 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:16:37 2018] 127.0.0.1:46292 [200]: /images/IIT_Delhi_logo.png
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46324 [200]: /arushi.html
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46328 [200]: /css/themify-icons.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46334 [200]: /css/bootstrap.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46338 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46342 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46346 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46350 [200]: /css/superfish.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46354 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46358 [200]: /css/animate.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46362 [200]: /css/style.css
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46366 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46370 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46374 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46378 [200]: /js/bootstrap.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46382 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46386 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46390 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46394 [200]: /js/superfish.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46398 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46402 [200]: /js/fastclick.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46406 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46410 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46414 [200]: /js/main.js
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46418 [200]: /images/logo.png
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46422 [200]: /images/arushi%20jain.jpeg
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46428 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:17:24 2018] 127.0.0.1:46432 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:18:04 2018] 127.0.0.1:46440 [200]: /images/arushi%20jain.jpeg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46486 [200]: /
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46494 [200]: /css/themify-icons.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46498 [200]: /css/bootstrap.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46502 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46506 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46510 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46514 [200]: /css/superfish.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46518 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46522 [200]: /css/animate.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46526 [200]: /css/style.css
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46530 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46534 [200]: /images/logo.png
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46538 [200]: /images/iitd_dogra_hall.jpg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46542 [200]: /images/robots_iitd.jpg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46546 [200]: /images/crf_iitd.jpg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46550 [200]: /images/courses_iitd.jpg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46554 [200]: /images/qslogo.png
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46558 [200]: /images/brics.jpg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46562 [200]: /images/nirflogo.jpg
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46566 [200]: /images/asianlogo.png
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46570 [200]: /images/wein50.png
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46574 [200]: /images/wein51100.png
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46578 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46582 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46586 [200]: /js/bootstrap.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46590 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46594 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46598 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46602 [200]: /js/superfish.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46606 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46610 [200]: /js/fastclick.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46614 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46618 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:18:21 2018] 127.0.0.1:46622 [200]: /js/main.js
+[Fri Feb  9 08:18:51 2018] 127.0.0.1:46664 [200]: /seongho.html
+[Fri Feb  9 08:18:51 2018] 127.0.0.1:46672 [200]: /images/Seongho%20Hong.jpg
+[Fri Feb  9 08:18:51 2018] 127.0.0.1:46676 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:18:51 2018] 127.0.0.1:46680 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46710 [200]: /soham.html
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46718 [200]: /css/themify-icons.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46722 [200]: /css/bootstrap.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46726 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46730 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46734 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46738 [200]: /css/superfish.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46742 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46746 [200]: /css/animate.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46750 [200]: /css/style.css
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46754 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46758 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46762 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46766 [200]: /js/bootstrap.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46770 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46774 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46778 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46782 [200]: /js/superfish.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46788 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46792 [200]: /js/fastclick.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46796 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46800 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:19:51 2018] 127.0.0.1:46804 [200]: /js/main.js
+[Fri Feb  9 08:19:52 2018] 127.0.0.1:46808 [200]: /images/logo.png
+[Fri Feb  9 08:19:52 2018] 127.0.0.1:46812 [200]: /images/soham%20roy.jpeg
+[Fri Feb  9 08:19:52 2018] 127.0.0.1:46816 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:19:52 2018] 127.0.0.1:46820 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46824 [200]: /swapnil.html
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46832 [200]: /css/themify-icons.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46836 [200]: /css/bootstrap.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46840 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46844 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46848 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46852 [200]: /css/superfish.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46856 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46860 [200]: /css/animate.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46864 [200]: /css/style.css
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46868 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46872 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46876 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46880 [200]: /js/bootstrap.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46886 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46890 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46894 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46898 [200]: /js/superfish.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46902 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46906 [200]: /js/fastclick.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46910 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46914 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46918 [200]: /js/main.js
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46922 [200]: /images/logo.png
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46926 [200]: /images/swapnil%20sharma.jpeg
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46930 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:20:06 2018] 127.0.0.1:46934 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46952 [200]: /romain.html
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46960 [200]: /css/themify-icons.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46964 [200]: /css/bootstrap.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46968 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46972 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46976 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46980 [200]: /css/superfish.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46984 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46988 [200]: /css/animate.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46992 [200]: /css/style.css
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:46996 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47000 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47004 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47008 [200]: /js/bootstrap.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47014 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47018 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47022 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47026 [200]: /js/superfish.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47030 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47034 [200]: /js/fastclick.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47038 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47042 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47046 [200]: /js/main.js
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47050 [200]: /images/logo.png
+[Fri Feb  9 08:20:41 2018] 127.0.0.1:47054 [200]: /images/Romain%20Gendreau.jpg
+[Fri Feb  9 08:20:42 2018] 127.0.0.1:47058 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:20:42 2018] 127.0.0.1:47062 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47082 [200]: /contribute/quiz
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47090 [404]: /contribute/css/themify-icons.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47094 [404]: /contribute/css/bootstrap.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47098 [404]: /contribute/css/owl.carousel.min.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47102 [404]: /contribute/css/owl.theme.default.min.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47106 [404]: /contribute/css/magnific-popup.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47110 [404]: /contribute/css/superfish.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47114 [404]: /contribute/css/easy-responsive-tabs.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47118 [404]: /contribute/css/animate.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47122 [404]: /contribute/css/style.css - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47126 [404]: /contribute/js/modernizr-2.6.2.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47130 [404]: /contribute/images/logo.png - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47134 [404]: /contribute/images/iitd_dogra_hall.jpg - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47138 [404]: /contribute/images/robots_iitd.jpg - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47142 [404]: /contribute/images/crf_iitd.jpg - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47146 [404]: /contribute/images/courses_iitd.jpg - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47150 [404]: /contribute/images/qslogo.png - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47154 [404]: /contribute/images/brics.jpg - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47158 [404]: /contribute/images/nirflogo.jpg - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47162 [404]: /contribute/images/asianlogo.png - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47166 [404]: /contribute/images/wein50.png - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47170 [404]: /contribute/images/wein51100.png - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47174 [404]: /contribute/js/jquery-1.10.2.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47178 [404]: /contribute/js/jquery.easing.1.3.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47182 [404]: /contribute/js/bootstrap.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47186 [404]: /contribute/js/owl.carousel.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47190 [404]: /contribute/js/jquery.magnific-popup.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47194 [404]: /contribute/js/hoverIntent.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47198 [404]: /contribute/js/superfish.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47202 [404]: /contribute/js/easyResponsiveTabs.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47206 [404]: /contribute/js/fastclick.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47210 [404]: /contribute/js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47214 [404]: /contribute/js/jquery.waypoints.min.js - No such file or directory
+[Fri Feb  9 08:21:27 2018] 127.0.0.1:47218 [404]: /contribute/js/main.js - No such file or directory
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47224 [200]: /yanik.html
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47228 [200]: /css/themify-icons.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47232 [200]: /css/bootstrap.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47236 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47240 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47244 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47248 [200]: /css/superfish.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47252 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47256 [200]: /css/animate.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47260 [200]: /css/style.css
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47264 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47268 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47274 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47278 [200]: /js/bootstrap.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47282 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47286 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47290 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47294 [200]: /js/superfish.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47298 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47302 [200]: /js/fastclick.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47306 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47310 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47314 [200]: /js/main.js
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47318 [200]: /images/logo.png
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47322 [200]: /images/Yanik%20Koch.jpg
+[Fri Feb  9 08:21:31 2018] 127.0.0.1:47326 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:21:32 2018] 127.0.0.1:47330 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:22:20 2018] 127.0.0.1:47344 [404]: /ishan.html - No such file or directory
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47348 [200]: /Ishan.html
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47352 [200]: /css/themify-icons.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47356 [200]: /css/bootstrap.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47360 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47364 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47368 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47372 [200]: /css/superfish.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47376 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47380 [200]: /css/animate.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47386 [200]: /css/style.css
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47390 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47394 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47398 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47402 [200]: /js/bootstrap.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47406 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47410 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47414 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47418 [200]: /js/superfish.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47422 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47426 [200]: /js/fastclick.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47430 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47434 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47438 [200]: /js/main.js
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47442 [200]: /images/logo.png
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47446 [200]: /images/ishan%20tewari.jpeg
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47450 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:22:25 2018] 127.0.0.1:47454 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47458 [200]: /adrien.html
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47462 [200]: /css/themify-icons.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47466 [200]: /css/bootstrap.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47470 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47474 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47478 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47482 [200]: /css/superfish.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47486 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47490 [200]: /css/animate.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47494 [200]: /css/style.css
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47498 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47502 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47508 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47512 [200]: /js/bootstrap.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47516 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47520 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47524 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47528 [200]: /js/superfish.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47532 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47536 [200]: /js/fastclick.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47540 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47544 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47548 [200]: /js/main.js
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47552 [200]: /images/logo.png
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47556 [200]: /images/Adrien%20Topalian.jpg
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47560 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:22:59 2018] 127.0.0.1:47564 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47568 [200]: /services.html
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47572 [200]: /css/themify-icons.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47576 [200]: /css/bootstrap.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47580 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47584 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47588 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47592 [200]: /css/superfish.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47596 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47600 [200]: /css/animate.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47604 [200]: /css/style.css
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47608 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47612 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47616 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47620 [200]: /js/bootstrap.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47624 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47628 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47632 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47636 [200]: /js/superfish.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47640 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47644 [200]: /js/fastclick.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47648 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47652 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47656 [200]: /js/main.js
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47660 [200]: /images/logo.png
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47664 [200]: /images/slide_2.jpg
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47672 [200]: /images/img_large_6.jpg
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47668 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47676 [200]: /images/img_large_1.jpg
+[Fri Feb  9 08:23:20 2018] 127.0.0.1:47680 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47684 [200]: /left-sidebar.html
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47688 [200]: /css/themify-icons.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47692 [200]: /css/bootstrap.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47696 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47700 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47704 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47708 [200]: /css/superfish.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47712 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47716 [200]: /css/animate.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47720 [200]: /css/style.css
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47724 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47728 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47734 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47738 [200]: /js/bootstrap.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47742 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47746 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47750 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47754 [200]: /js/superfish.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47758 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47762 [200]: /js/fastclick.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47766 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47770 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47774 [200]: /js/main.js
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47778 [200]: /images/logo.png
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47782 [200]: /images/img_large_1.jpg
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47786 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:23:47 2018] 127.0.0.1:47790 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47798 [200]: /elements.html
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47802 [200]: /css/themify-icons.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47806 [200]: /css/bootstrap.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47810 [200]: /css/owl.carousel.min.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47814 [200]: /css/owl.theme.default.min.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47818 [200]: /css/magnific-popup.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47822 [200]: /css/superfish.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47826 [200]: /css/easy-responsive-tabs.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47830 [200]: /css/animate.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47834 [200]: /css/style.css
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47838 [200]: /js/modernizr-2.6.2.min.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47844 [200]: /js/jquery-1.10.2.min.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47848 [200]: /js/jquery.easing.1.3.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47852 [200]: /js/bootstrap.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47856 [200]: /js/owl.carousel.min.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47860 [200]: /js/jquery.magnific-popup.min.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47864 [200]: /js/hoverIntent.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47868 [200]: /js/superfish.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47872 [200]: /js/easyResponsiveTabs.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47876 [200]: /js/fastclick.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47880 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47884 [200]: /js/jquery.waypoints.min.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47888 [200]: /js/main.js
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47892 [200]: /images/logo.png
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47896 [200]: /images/img_large_1.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47900 [200]: /images/img_large_2.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47904 [200]: /images/img_large_3.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47908 [200]: /images/img_large_4.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47912 [200]: /images/img_large_5.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47916 [200]: /images/img_large_6.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47920 [200]: /images/image_1.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47924 [200]: /images/image_2.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47928 [200]: /images/slide_2.jpg
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47932 [200]: /fonts/themify/themify.woff?-fvbane
+[Fri Feb  9 08:24:31 2018] 127.0.0.1:47936 [404]: /js/jquery.parallax-scroll.min.js - No such file or directory
