@@ -594,6 +594,7 @@ textarea {
 }
 #fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu {
   display: none;
+
   padding-left: 20px;
 }
 #fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu li {
@@ -1876,6 +1877,12 @@ a > img.fh5co-align-center {
 * Custom defined classes
 *
 */
+
+#submenu{
+  width: 200px;
+}
+
+
 
 .fh5co-feature-icon img
 {
