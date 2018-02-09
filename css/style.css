@@ -577,7 +577,7 @@ textarea {
 #fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-ddown {
   position: relative;
 }
-#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-ddown::after {
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .  ::after {
   font-family: 'themify';
   speak: none;
   font-style: normal;
